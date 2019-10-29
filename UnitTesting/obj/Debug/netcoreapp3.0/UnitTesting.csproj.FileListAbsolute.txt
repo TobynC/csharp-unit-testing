@@ -22,3 +22,28 @@ C:\Users\Tobyn\source\repos\UnitTesting\UnitTesting\obj\Debug\netcoreapp3.0\Unit
 C:\Users\Tobyn\source\repos\UnitTesting\UnitTesting\obj\Debug\netcoreapp3.0\UnitTesting.csproj.CopyComplete
 C:\Users\Tobyn\source\repos\UnitTesting\UnitTesting\obj\Debug\netcoreapp3.0\UnitTesting.dll
 C:\Users\Tobyn\source\repos\UnitTesting\UnitTesting\obj\Debug\netcoreapp3.0\UnitTesting.pdb
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\bin\Debug\netcoreapp3.0\UnitTesting.exe
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\bin\Debug\netcoreapp3.0\UnitTesting.deps.json
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\bin\Debug\netcoreapp3.0\UnitTesting.runtimeconfig.json
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\bin\Debug\netcoreapp3.0\UnitTesting.runtimeconfig.dev.json
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\bin\Debug\netcoreapp3.0\UnitTesting.dll
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\bin\Debug\netcoreapp3.0\UnitTesting.pdb
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\obj\Debug\netcoreapp3.0\UnitTesting.csprojAssemblyReference.cache
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\obj\Debug\netcoreapp3.0\UnitTesting.AssemblyInfoInputs.cache
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\obj\Debug\netcoreapp3.0\UnitTesting.AssemblyInfo.cs
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\obj\Debug\netcoreapp3.0\UnitTesting.csproj.CopyComplete
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\obj\Debug\netcoreapp3.0\UnitTesting.dll
+C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\obj\Debug\netcoreapp3.0\UnitTesting.pdb
