@@ -1,13 +1,9 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
-using System.Collections.Generic;
-using System.Text;
 using TestNinja.Fundamentals;
 
 namespace UnitTesting.UnitTesting
 {
     [TestClass]
-    [System.Diagnostics.CodeAnalysis.SuppressMessage("Naming", "CA1707:Identifiers should not contain underscores", Justification = "<Pending>")]
     public class CustomerControllerTests
     {
         private CustomerController _customerController;

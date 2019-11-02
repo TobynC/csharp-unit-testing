@@ -47,3 +47,4 @@ C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testi
 C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\obj\Debug\netcoreapp3.0\UnitTesting.csproj.CopyComplete
 C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\obj\Debug\netcoreapp3.0\UnitTesting.dll
 C:\Users\ctobyn\Documents\Visual Studio 2019\repos\Independent\csharp-unit-testing\UnitTesting\obj\Debug\netcoreapp3.0\UnitTesting.pdb
+C:\Users\Tobyn\source\repos\UnitTesting\UnitTesting\obj\Debug\netcoreapp3.0\UnitTesting.csprojAssemblyReference.cache

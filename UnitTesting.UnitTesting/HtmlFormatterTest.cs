@@ -3,7 +3,6 @@ using TestNinja.Fundamentals;
 
 namespace UnitTesting.UnitTesting
 {
-    [System.Diagnostics.CodeAnalysis.SuppressMessage("Naming", "CA1707:Identifiers should not contain underscores", Justification = "<Pending>")]
     [TestClass]
     public class HtmlFormatterTest
     {

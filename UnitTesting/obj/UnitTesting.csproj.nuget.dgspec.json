@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ctobyn\\Documents\\Visual Studio 2019\\repos\\Independent\\csharp-unit-testing\\UnitTesting\\UnitTesting.csproj": {}
+    "C:\\Users\\Tobyn\\source\\repos\\UnitTesting\\UnitTesting\\UnitTesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ctobyn\\Documents\\Visual Studio 2019\\repos\\Independent\\csharp-unit-testing\\UnitTesting\\UnitTesting.csproj": {
+    "C:\\Users\\Tobyn\\source\\repos\\UnitTesting\\UnitTesting\\UnitTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ctobyn\\Documents\\Visual Studio 2019\\repos\\Independent\\csharp-unit-testing\\UnitTesting\\UnitTesting.csproj",
+        "projectUniqueName": "C:\\Users\\Tobyn\\source\\repos\\UnitTesting\\UnitTesting\\UnitTesting.csproj",
         "projectName": "UnitTesting",
-        "projectPath": "C:\\Users\\ctobyn\\Documents\\Visual Studio 2019\\repos\\Independent\\csharp-unit-testing\\UnitTesting\\UnitTesting.csproj",
-        "packagesPath": "C:\\Users\\ctobyn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ctobyn\\Documents\\Visual Studio 2019\\repos\\Independent\\csharp-unit-testing\\UnitTesting\\obj\\",
+        "projectPath": "C:\\Users\\Tobyn\\source\\repos\\UnitTesting\\UnitTesting\\UnitTesting.csproj",
+        "packagesPath": "C:\\Users\\Tobyn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tobyn\\source\\repos\\UnitTesting\\UnitTesting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ctobyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Tobyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

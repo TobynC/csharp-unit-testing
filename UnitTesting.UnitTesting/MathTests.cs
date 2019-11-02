@@ -4,7 +4,6 @@ using TestNinja.Fundamentals;
 
 namespace TestNinja.UnitTests
 {
-    [System.Diagnostics.CodeAnalysis.SuppressMessage("Naming", "CA1707:Identifiers should not contain underscores", Justification = "<Pending>")]
     [TestClass]
     public class MathTests
     {
